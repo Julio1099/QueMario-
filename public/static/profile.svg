@@ -71,11 +71,11 @@
                 I do software engineering.
             </text>
 
-            <text class="text" x="388" y="110" font-size="32px" font-weight="bold" fill="#fff" clip-path="url(#pt_hello_clip)">Oi 😎</text>
-            <text class="text" x="310" y="138" font-size="18px" fill="#fff" clip-path="url(#pt_name_clip)">
+            <text class="text" x="50%" y="110" text-anchor="middle" font-size="32px" font-weight="bold" fill="#fff" clip-path="url(#pt_hello_clip)">Oi 😎</text>
+            <text class="text" x="50%" y="138" text-anchor="middle" font-size="18px" fill="#fff" clip-path="url(#pt_name_clip)">
                 Meu nome é <tspan font-weight="bold" fill="black">Júlio Cesar</tspan>
             </text>
-            <text class="text" x="283" y="160" font-size="18px" fill="#fff" clip-path="url(#pt_work_clip)">
+            <text class="text" x="50%" y="160" text-anchor="middle" font-size="18px" fill="#fff" clip-path="url(#pt_work_clip)">
                 Eu faço engenharia de software.
             </text>
 
