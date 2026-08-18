@@ -41,8 +41,8 @@ export default async (req, res) => {
                     </rect>
                 </clipPath>
                 <clipPath id="pt_hello_clip" clipPathUnits="userSpaceOnUse">
-                    <rect x="388" y="80" width="0" height="40">
-                        <animate attributeName="width" dur="18s" repeatCount="indefinite" values="0;0;110;110;0" keyTimes="0;0.50;0.55;0.96;1" />
+                    <rect x="350" y="80" width="0" height="40">
+                        <animate attributeName="width" dur="18s" repeatCount="indefinite" values="0;0;160;160;0" keyTimes="0;0.50;0.55;0.96;1" />
                     </rect>
                 </clipPath>
                 <clipPath id="pt_name_clip" clipPathUnits="userSpaceOnUse">
